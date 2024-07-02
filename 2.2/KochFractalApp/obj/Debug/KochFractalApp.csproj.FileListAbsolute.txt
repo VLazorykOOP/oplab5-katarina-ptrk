@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\bin\Debug\KochFractalApp.exe.config
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\bin\Debug\KochFractalApp.exe
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\bin\Debug\KochFractalApp.pdb
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.Form1.resources
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.Properties.Resources.resources
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.exe
+C:\Users\Professional\source\repos\KochFractalApp\KochFractalApp\obj\Debug\KochFractalApp.pdb
